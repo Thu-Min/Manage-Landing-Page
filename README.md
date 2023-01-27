@@ -6,4 +6,4 @@
 </div>
 
 <h4>Preview Image</h4>
-![image](https://user-images.githubusercontent.com/96730005/215112218-d601a600-40d9-48f6-a968-ff5bde620ff3.png)
+![Screenshot from 2023-01-27 21-05-30](https://user-images.githubusercontent.com/96730005/215112721-b49a3db1-313a-43fe-9274-240a563a4bab.png)
